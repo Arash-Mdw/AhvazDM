@@ -76,7 +76,7 @@ local function run(msg, matches)
 end
 
 return {
-  description = "Invite other user to the chat group", 
+  description = "Invite's user to the chat group", 
   usage = {
   	moderator = {
   		"!invite <username> : Invite other user to this chat",
